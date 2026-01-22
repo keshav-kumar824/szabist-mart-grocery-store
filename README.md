@@ -109,4 +109,4 @@ MIT
 
 Welcome! Check out my project.
 
-[Preview Website]([(https://szabist-mart-grocery-store--keshavlund62.replit.app])
+[Preview Website](https://szabist-mart-grocery-store--keshavlund62.replit.app)

@@ -87,7 +87,11 @@ szabist-mart/
 │   ├── app.py
 │   ├── products.json
 │   ├── requirements.txt
-│   ├── templates/
+│   ├── .gitignore
+|   ├── .python-version
+|   ├── pyproject.toml
+|   ├── uv.lock
+|   ├── templates/
 │   └── static/
 ├── Dockerfile
 ├── compose.yml
@@ -100,3 +104,9 @@ Ayush and Keshav
 
 ## License
 MIT
+
+# My Website
+
+Welcome! Check out my project.
+
+[Preview Website]([(https://szabist-mart-grocery-store--keshavlund62.replit.app])

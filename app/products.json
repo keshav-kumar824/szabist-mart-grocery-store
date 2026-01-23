@@ -1,0 +1,302 @@
+[
+  {
+    "product_id": 1,
+    "name": "Basmati Rice",
+    "category": "Grains",
+    "price": 250,
+    "quantity": "5 kg",
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop",
+    "description": "Premium quality long-grain basmati rice"
+  },
+  {
+    "product_id": 2,
+    "name": "Wheat Flour",
+    "category": "Grains",
+    "price": 180,
+    "quantity": "5 kg",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1627485937980-221c88ac04f9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2hlYXQlMjBmbG91cnxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Freshly milled whole wheat flour"
+  },
+  {
+    "product_id": 3,
+    "name": "Sugar",
+    "category": "Essentials",
+    "price": 120,
+    "quantity": "1 kg",
+    "stock": 15,
+    "image": "https://media.istockphoto.com/id/456074779/photo/tablespoon-filled-with-granulated-sugar.webp?a=1&b=1&s=612x612&w=0&k=20&c=8FZbf3kQsNkFLCGjcZxb4HVK69hljrI7PzIssl0JsAU=",
+    "description": "Refined white sugar"
+  },
+  {
+    "product_id": 4,
+    "name": "Cooking Oil",
+    "category": "Essentials",
+    "price": 520,
+    "quantity": "1 liter",
+    "stock": 2,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&h=400&fit=crop",
+    "description": "Pure refined cooking oil"
+  },
+  {
+    "product_id": 5,
+    "name": "Milk",
+    "category": "Dairy",
+    "price": 180,
+    "quantity": "2 liters",
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&h=400&fit=crop",
+    "description": "Fresh dairy milk"
+  },
+  {
+    "product_id": 6,
+    "name": "Butter",
+    "category": "Dairy",
+    "price": 220,
+    "quantity": "200 g",
+    "stock": 7,
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400&h=400&fit=crop",
+    "description": "Creamy salted butter"
+  },
+  {
+    "product_id": 7,
+    "name": "Eggs",
+    "category": "Dairy",
+    "price": 300,
+    "quantity": "12 pcs",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=400&h=400&fit=crop",
+    "description": "Farm fresh eggs"
+  },
+  {
+    "product_id": 8,
+    "name": "Bread",
+    "category": "Bakery",
+    "price": 90,
+    "quantity": "1 loaf",
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Soft white bread"
+  },
+  {
+    "product_id": 9,
+    "name": "Apples",
+    "category": "Fruits",
+    "price": 200,
+    "quantity": "1 kg",
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=400&fit=crop",
+    "description": "Fresh red apples"
+  },
+  {
+    "product_id": 10,
+    "name": "Bananas",
+    "category": "Fruits",
+    "price": 120,
+    "quantity": "1 dozen",
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=400&fit=crop",
+    "description": "Sweet ripe bananas"
+  },
+  {
+    "product_id": 11,
+    "name": "Oranges",
+    "category": "Fruits",
+    "price": 160,
+    "quantity": "1 kg",
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?w=400&h=400&fit=crop",
+    "description": "Juicy fresh oranges"
+  },
+  {
+    "product_id": 12,
+    "name": "Potatoes",
+    "category": "Vegetables",
+    "price": 100,
+    "quantity": "2 kg",
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop",
+    "description": "Fresh farm potatoes"
+  },
+  {
+    "product_id": 13,
+    "name": "Onions",
+    "category": "Vegetables",
+    "price": 90,
+    "quantity": "2 kg",
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=400&h=400&fit=crop",
+    "description": "Red onions"
+  },
+  {
+    "product_id": 14,
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "price": 140,
+    "quantity": "1 kg",
+    "stock": 6,
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=400&h=400&fit=crop",
+    "description": "Fresh red tomatoes"
+  },
+  {
+    "product_id": 15,
+    "name": "Carrots",
+    "category": "Vegetables",
+    "price": 120,
+    "quantity": "1 kg",
+    "stock": 17,
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400&h=400&fit=crop",
+    "description": "Crunchy fresh carrots"
+  },
+  {
+    "product_id": 16,
+    "name": "Green Chillies",
+    "category": "Vegetables",
+    "price": 80,
+    "quantity": "250 g",
+    "stock": 10,
+    "image": "https://media.istockphoto.com/id/2206316789/photo/green-chilli-pepper-slices.jpg?s=1024x1024&w=is&k=20&c=iKccqbLW4_8CZ_HeN7WbK0Affbvo8OG3no39R1oowSs=",
+    "description": "Fresh green chillies"
+  },
+  {
+    "product_id": 17,
+    "name": "Tea",
+    "category": "Beverages",
+    "price": 250,
+    "quantity": "500 g",
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1597406138373-cee3f0dc7e82?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+    "description": "Strong black tea leaves"
+  },
+  {
+    "product_id": 18,
+    "name": "Coffee",
+    "category": "Beverages",
+    "price": 400,
+    "quantity": "200 g",
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400&h=400&fit=crop",
+    "description": "Premium instant coffee"
+  },
+  {
+    "product_id": 19,
+    "name": "Salt",
+    "category": "Essentials",
+    "price": 50,
+    "quantity": "1 kg",
+    "stock": 25,
+    "image": "https://media.istockphoto.com/id/2194928335/photo/salt-on-wooden-chopping-board.webp?a=1&b=1&s=612x612&w=0&k=20&c=8x_LqjV9JzDnVKfeUBcVs5Mthzw_w1d2La0lzG2F0V4=",
+    "description": "Iodized salt"
+  },
+  {
+    "product_id": 20,
+    "name": "Black Pepper",
+    "category": "Spices",
+    "price": 180,
+    "quantity": "100 g",
+    "stock": 8,
+    "image": "https://plus.unsplash.com/premium_photo-1726072357017-0af7b90a463d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjBwZXBwZXJ8ZW58MHx8MHx8fDA%3D",
+    "description": "Freshly ground black pepper"
+  },
+  {
+    "product_id": 21,
+    "name": "Red Chili Powder",
+    "category": "Spices",
+    "price": 150,
+    "quantity": "200 g",
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1702041295471-01b73fd39907?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVkJTIwY2hpbGxpJTIwcG93ZGVyfGVufDB8fDB8fHww",
+    "description": "Spicy red chili powder"
+  },
+  {
+    "product_id": 22,
+    "name": "Turmeric Powder",
+    "category": "Spices",
+    "price": 120,
+    "quantity": "200 g",
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1702041295331-840d4d9aa7c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHVybWVyaWMlMjBwb3dkZXJ8ZW58MHx8MHx8fDA%3D",
+    "description": "Pure turmeric powder"
+  },
+  {
+    "product_id": 23,
+    "name": "Biscuits",
+    "category": "Snacks",
+    "price": 80,
+    "quantity": "1 pack",
+    "stock": 19,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&h=400&fit=crop",
+    "description": "Crunchy tea-time biscuits"
+  },
+  {
+    "product_id": 24,
+    "name": "Chips",
+    "category": "Snacks",
+    "price": 70,
+    "quantity": "1 pack",
+    "stock": 21,
+    "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400&h=400&fit=crop",
+    "description": "Crispy potato chips"
+  },
+  {
+    "product_id": 25,
+    "name": "Chocolate",
+    "category": "Snacks",
+    "price": 150,
+    "quantity": "1 bar",
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=400&h=400&fit=crop",
+    "description": "Milk chocolate bar"
+  },
+  {
+    "product_id": 26,
+    "name": "Frozen Peas",
+    "category": "Frozen",
+    "price": 200,
+    "quantity": "1 kg",
+    "stock": 7,
+    "image": "https://plus.unsplash.com/premium_photo-1725899526115-209d70eb6368?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnJvemVuJTIwcGVhc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Frozen green peas"
+  },
+  {
+    "product_id": 27,
+    "name": "Chicken",
+    "category": "Meat",
+    "price": 600,
+    "quantity": "1 kg",
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=400&h=400&fit=crop",
+    "description": "Fresh chicken meat"
+  },
+  {
+    "product_id": 28,
+    "name": "Beef",
+    "category": "Meat",
+    "price": 850,
+    "quantity": "1 kg",
+    "stock": 3,
+    "image": "https://images.unsplash.com/photo-1690983323540-d6e889c4b107?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Fresh beef meat"
+  },
+  {
+    "product_id": 29,
+    "name": "Fish",
+    "category": "Meat",
+    "price": 700,
+    "quantity": "1 kg",
+    "stock": 55,
+    "image": "https://images.unsplash.com/photo-1576330383200-2bf325cfec52?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZpc2glMjBmb29kfGVufDB8fDB8fHww",
+    "description": "Fresh river fish"
+  },
+  {
+    "product_id": 30,
+    "name": "Ice Cream",
+    "category": "Frozen",
+    "price": 300,
+    "quantity": "1 liter",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=400&h=400&fit=crop",
+    "description": "Vanilla ice cream"
+  }
+]

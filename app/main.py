@@ -29,18 +29,14 @@ def index():
     return render_template('index.html', products=products)
 
 # ================== PRODUCTS PAGE ==================
-@app.route("/product/<int:product_id>")
-def product_detail(product_id):
-    product = None
-    for p in products:
-        if p['product_id'] == product_id:
-            product = p
-            break
-    
-    if product is None:
-        return "Product not found", 404
-    
-    return render_template('product_detail.html', product=product)
+@app.route('/products')
+def products_page():
+    category_filter = request.args.get('category')
+    if category_filter:
+        filtered_products = [p for p in products if p['category'] == category_filter]
+    else:
+        filtered_products = products
+    return render_template('products.html', products=filtered_products)
 
 # ================== PRODUCT DETAIL PAGE ==================
 @app.route("/product/<int:product_id>")
